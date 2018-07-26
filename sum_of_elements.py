@@ -1,4 +1,4 @@
-#Calculating sum of elements
+# Calculating the sum of elements
 
 i = 20		#starting element
 j = 0
