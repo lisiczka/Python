@@ -1,3 +1,7 @@
+# A sorting script.
+# It gets values from the list and sorts them by length
+
+
 main_list = ['Lee', 'Stan', 'Barry', 'Cerl', 'John', 'Eddy', 'Uli', 'Kareeen', 'Joa', 'Zauzanne', 'Joanne', 'Alexandr']
 print("main_list:", main_list)
 
