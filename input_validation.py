@@ -1,3 +1,13 @@
+# Input validation script I had to wrote for a recruitment (not so fancy but still working :p)
+
+# Requirements:
+# 1. Strip andy <script> expression
+# 2. Shorten the input to max 50 chars.
+# 3. Remove any quotation marks
+# 4. URL-decode the input
+# 5. If any of the above were deleted, go back to step 1
+
+
 import re
 import urllib.parse
 
