@@ -1,4 +1,4 @@
-# Input validation script I had to wrote for a recruitment (not so fancy but still working :p)
+# Input validation script I had to write for a recruitment (not so fancy but still working :p)
 
 # Requirements:
 # 1. Strip andy <script> expression
